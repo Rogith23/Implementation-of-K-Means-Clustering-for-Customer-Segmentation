@@ -68,18 +68,43 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
+
 DATA.INFO()
+
+
 <img width="539" height="332" alt="Screenshot 2025-10-06 114106" src="https://github.com/user-attachments/assets/9c1b6b6a-269e-481f-8504-5f47dcb04ad8" />
+
+
 DATA.HEAD()
+
+
 <img width="711" height="279" alt="Screenshot 2025-10-06 114115" src="https://github.com/user-attachments/assets/aa358e77-f727-45e3-8f49-7456acab30aa" />
+
+
 DATA.ISNULL().SUM()
+
+
 <img width="656" height="227" alt="Screenshot 2025-10-06 114121" src="https://github.com/user-attachments/assets/26da7678-d6e6-4352-80ff-9ee506ea79d0" />
+
+
 ELBOW METHOD
+
+
 <img width="959" height="671" alt="Screenshot 2025-10-06 114132" src="https://github.com/user-attachments/assets/15487ef1-901e-444c-b521-8a750b4c266d" />
+
+
 Y_PRED
+
+
 <img width="809" height="227" alt="Screenshot 2025-10-06 114153" src="https://github.com/user-attachments/assets/8cbecd53-b1b5-4fc0-9c46-3730333736e5" />
+
+
 CUSTOMER SEGMENT
+
+
 <img width="903" height="643" alt="Screenshot 2025-10-06 114203" src="https://github.com/user-attachments/assets/19dd6928-800b-4ddb-a4ac-a26ae8d62951" />
+
+
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
